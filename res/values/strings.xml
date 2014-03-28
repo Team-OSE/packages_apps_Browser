@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The name of the application. -->
-    <string name="application_name">Browser</string>
+    <string name="application_name">OSE Browser</string>
     <!-- Displayed with a file picker to choose a file to upload -->
     <string name="choose_upload">Choose file for upload</string>
     <!-- Toast to show the user after they try to open the file picker but no apps on the
@@ -794,7 +794,7 @@
     <string name="dump_nav" translatable="false">Dump navigation cache</string>
 
     <!-- The default homepage. -->
-    <string name="homepage_base" translatable="false">http://www.slimroms.net</string>
+    <string name="homepage_base" translatable="false">http://ose.drdevs.com</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
